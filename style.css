@@ -1,0 +1,31 @@
+h1{
+    font-family: "Comic Sans MS";
+    font-size: 70px;
+    ;
+}
+
+p{
+    font-family: "Comic Sans MS";
+    font-size: 25px;
+}
+div{
+    font-family: "Comic Sans MS";
+    font-size: 19px;
+}
+
+body {
+    background-image: url("paper.gif");
+    background-color: #cccccc;
+   
+    
+        background-image: linear-gradient(to right, rgb(92, 14, 128), rgb(99, 140, 192), rgb(20, 2, 182));
+      }
+   div {border-width: 15px;}
+.bold {
+    border-width: 60px;
+}
+body {background-color: hsl(187, 79%, 46%);}
+
+.center{
+    text-align: center;
+}
