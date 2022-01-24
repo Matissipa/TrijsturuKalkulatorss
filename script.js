@@ -47,7 +47,7 @@ function rezultats() {
             t = "Trijstūris neeksistē, jo jebkuru 2 malu garumu summai ir jābūt lielākai par trešo malu!";
         } else {
             t = "Trijstūris ar malu garumiem" + m1 + "," + m2 + "un" + m3 + "eksistē."
-            if (m1 == m2 && m2 == m3) {
+           
             if (m1 == m2 && m2 == m3 ) {
                 t += "Vienādmalu trijstūris."
             }else{
@@ -61,7 +61,7 @@ function rezultats() {
         }
         }``
     }
-}
+
     console.log(t);
     return t;
 }
